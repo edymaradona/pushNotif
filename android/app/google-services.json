@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "348929096143",
+    "firebase_url": "https://pushnotif-bca53.firebaseio.com",
+    "project_id": "pushnotif-bca53",
+    "storage_bucket": "pushnotif-bca53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348929096143:android:ee842e7df45e6921",
+        "android_client_info": {
+          "package_name": "com.pushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348929096143-jckv30qb9mp1j62acuuhg9hkhpd5bvps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA88uZ_XNmz-ScJ4rgUj_M0lzZbmumYivs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
